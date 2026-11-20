@@ -1,0 +1,9 @@
+command:
+  - "python"
+  - "server.py"
+
+env:
+  - name: "AZDO_ORG"
+    value: "VolvoGroup-UDP"
+  - name: "AZDO_PROJECT"
+    value: "SMLCloud"
